@@ -28,6 +28,7 @@ Sample Output:-
 3. Update Student
 4. Delete Student
 5. Exit
+
 Enter your choice: 1
 Enter Roll No: 101
 Enter Name: John Doe
@@ -42,6 +43,7 @@ Student added successfully!
 3. Update Student
 4. Delete Student
 5. Exit
+
 Enter your choice: 2
 Roll No: 101
 Name: John Doe
